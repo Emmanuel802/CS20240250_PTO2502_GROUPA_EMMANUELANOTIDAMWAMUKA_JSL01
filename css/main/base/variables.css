@@ -1,18 +1,24 @@
 :root {
   /* ===== COLORS ===== */
-  --color-1: #635fc7;
-  --color-2: #a8a4ff;
-  --color-3: #000112;
-  --color-4: #20212c;
-  --color-5: #2b2c37;
-  --color-6: #3e3f4e;
-  --color-7: #828fa3;
-  --color-8: #e4ebfa;
-  --color-9: #f4f7fd;
-  --color-10: #ffffff;
-  --color-11: #ea5555;
-  --color-12: #ff9898;
-  --color-13: #49c4e5;
-  --color-14: #8471f2;
-  --color-15: #67e2ae;
+  --color-1: #635fc7; /* Temporary name - will be renamed */
+  --color-2: #a8a4ff; /* Temporary name - will be renamed */
+  --color-3: #000112; /* Temporary name - will be renamed */
+  --color-4: #20212c; /* Temporary name - will be renamed */
+  --color-5: #2b2c37; /* Temporary name - will be renamed */
+  --color-6: #3e3f4e; /* Temporary name - will be renamed */
+  --color-7: #828fa3; /* Temporary name - will be renamed */
+  --color-8: #e4ebfa; /* Temporary name - will be renamed */
+  --color-9: #f4f7fd; /* Temporary name - will be renamed */
+  --color-10: #ffffff; /* Temporary name - will be renamed */
+  --color-11: #ea5555; /* Temporary name - will be renamed */
+  --color-12: #ff9898; /* Temporary name - will be renamed */
+  --color-13: #49c4e5; /* Temporary name - will be renamed */
+  --color-14: #8471f2; /* Temporary name - will be renamed */
+  --color-15: #67e2ae; /* Temporary name - will be renamed */
+
+  /* ===== TYPOGRAPHY ===== */
+  --heading-xl: 24px;
+  --heading-l: 18px;
+  --heading-m: 15px;
+  --heading-s: 12px;
 }
