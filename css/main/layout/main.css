@@ -1,0 +1,51 @@
+main {
+  margin: 0 25px;
+}
+
+.column {
+  margin: 30px 0;
+}
+
+.column-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 30px;
+}
+
+.column-header h4 {
+  font-size: var(--heading-s);
+  font-weight: 700;
+  color: var(--color-7);
+}
+
+.dot {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+}
+
+.todo-dot {
+  background-color: var(--color-13);
+}
+
+.doing-dot {
+  background-color: var(--color-14);
+}
+
+.done-dot {
+  background-color: var(--color-15);
+}
+
+.task-container {
+  font-size: var(--heading-m);
+  font-weight: 700;
+}
+
+.task-item {
+  background-color: var(--color-10);
+  padding: 1.2rem;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
