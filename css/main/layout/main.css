@@ -16,6 +16,7 @@ main {
 .column-header h4 {
   font-size: var(--heading-s);
   font-weight: 700;
+  letter-spacing: 2.4px;
   color: var(--color-7);
 }
 
