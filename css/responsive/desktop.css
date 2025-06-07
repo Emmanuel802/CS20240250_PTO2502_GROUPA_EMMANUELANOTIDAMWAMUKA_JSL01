@@ -1,0 +1,65 @@
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+  }
+
+  .sidebar {
+    width: 300px;
+    height: 100vh;
+    align-content: start;
+    border-right: 2px var(--color-9) solid;
+  }
+
+  .app-logo {
+    margin: 40px 20px;
+  }
+
+  .board-container {
+    display: block;
+  }
+
+  .board-container h4 {
+    color: var(--color-7);
+    font-size: var(--heading-s);
+    letter-spacing: 2.4px;
+    margin: 40px 20px;
+  }
+
+  .board-item {
+    width: 276px;
+    color: var(--color-10);
+    background-color: var(--color-1);
+    padding: 18px 0;
+    border-radius: 0 100px 100px 0;
+    border: none;
+    cursor: pointer;
+  }
+
+  .main-content {
+    flex: 1;
+    overflow: auto;
+  }
+
+  header {
+    display: block;
+    border-bottom: 2px var(--color-9) solid;
+  }
+
+  .board-header {
+    background-color: var(--color-10);
+    padding: 40px 30px;
+  }
+
+  main {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .column {
+    width: 280px;
+    padding: 10px;
+  }
+}
