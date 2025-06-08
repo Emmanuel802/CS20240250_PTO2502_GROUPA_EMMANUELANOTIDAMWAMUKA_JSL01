@@ -4,6 +4,10 @@ main {
 }
 
 /* ===== TASK STATUS CONTAINERS ===== */
+.columns-container {
+  padding-top: 70px;
+}
+
 .column {
   margin: 30px 0;
 }
