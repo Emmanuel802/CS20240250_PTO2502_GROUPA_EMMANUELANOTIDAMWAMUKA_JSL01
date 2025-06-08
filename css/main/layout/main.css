@@ -1,7 +1,9 @@
+/* ===== MAIN CONTENT ===== */
 main {
   margin: 0 25px;
 }
 
+/* ===== TASK STATUS CONTAINERS ===== */
 .column {
   margin: 30px 0;
 }
