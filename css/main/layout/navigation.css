@@ -1,8 +1,11 @@
 .sidebar {
+  position: fixed;
+  top: 0;
   align-content: center;
   background-color: var(--color-10);
   width: 100%;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  z-index: 1;
 }
 
 .app-logo {
