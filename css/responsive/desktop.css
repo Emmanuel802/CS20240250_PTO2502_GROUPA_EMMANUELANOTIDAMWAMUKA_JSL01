@@ -63,6 +63,10 @@
     flex-direction: row;
   }
 
+  .columns-container {
+    padding-top: 0;
+  }
+
   .column {
     width: 280px;
     padding-right: 20px;
